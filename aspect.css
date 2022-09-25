@@ -1,0 +1,34 @@
+[sa-aspect="auto"] {
+  aspect-ratio: auto;
+}
+
+[sa-aspect="square"] {
+  aspect-ratio: 1 / 1;
+}
+
+[sa-aspect="photo"],
+[sa-aspect="photo-h"] {
+  aspect-ratio: 3 / 2;
+}
+
+[sa-aspect="photo-v"] {
+  aspect-ratio: 3 / 2;
+}
+
+[sa-aspect="video"],
+[sa-aspect="video-h"] {
+  aspect-ratio: 16 / 9;
+}
+
+[sa-aspect="video-v"] {
+  aspect-ratio: 9 / 16;
+}
+
+[sa-aspect="sd"],
+[sa-aspect="sd-h"] {
+  aspect-ratio: 4 / 3;
+}
+
+[sa-aspect="sd-v"] {
+  aspect-ratio: 3 / 4;
+}

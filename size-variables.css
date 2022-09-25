@@ -1,0 +1,35 @@
+:root {
+  --size-xs-s: 1px;
+  --size-xs-m: 2px;
+  --size-xs-l: 4px;
+
+  --size-s-xxxs: 6px;
+  --size-s-xxs: 8px;
+  --size-s-xs: 10px;
+  --size-s-s: 12px;
+  --size-s-m: 16px;
+  --size-s-l: 24px;
+  --size-s-xl: 28px;
+  --size-s-xxl: 32px;
+  --size-s-xxxl: 36px;
+
+  --size-m-xxxs: 40px;
+  --size-m-xxs: 48px;
+  --size-m-xs: 56px;
+  --size-m-s: 64px;
+  --size-m-m: 80px;
+  --size-m-l: 96px;
+  --size-m-xl: 112px;
+  --size-m-xxl: 128px;
+  --size-m-xxxl: 160px;
+
+  --size-l-xxxs: 214px;
+  --size-l-xxs: 320px;
+  --size-l-xs: 400px;
+  --size-l-s: 600px;
+  --size-l-m: 768px;
+  --size-l-l: 1024px;
+  --size-l-xl: 1333px;
+  --size-l-xxl: 1600px;
+  --size-l-xxxl: 1920px;
+}

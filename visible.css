@@ -1,0 +1,8 @@
+[sa-visible],
+[sa-visible="true"] {
+  visibility: visible;
+}
+
+[sa-visible="false"] {
+  visibility: hidden;
+}

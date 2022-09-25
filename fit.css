@@ -1,0 +1,55 @@
+[sa-fit="none"] {
+  object-fit: none;
+}
+
+[sa-fit="contain"] {
+  object-fit: contain;
+}
+
+[sa-fit="fill"] {
+  object-fit: fill;
+}
+
+[sa-fit="cover"] {
+  object-fit: cover;
+}
+
+[sa-fit="scale-down"] {
+  object-fit: scale-down;
+}
+
+[sa-fit-place="tl"] {
+  object-position: top left;
+}
+
+[sa-fit-place="t"] {
+  object-position: top;
+}
+
+[sa-fit-place="tr"] {
+  object-position: top right;
+}
+
+[sa-fit-place="r"] {
+  object-position: right;
+}
+
+[sa-fit-place="br"] {
+  object-position: bottom right;
+}
+
+[sa-fit-place="b"] {
+  object-position: bottom;
+}
+
+[sa-fit-place="br"] {
+  object-position: bottom left;
+}
+
+[sa-fit-place="l"] {
+  object-position: right;
+}
+
+[sa-fit-place="center"] {
+  object-position: center;
+}

@@ -1,0 +1,45 @@
+[sa-coord-t="0"] {
+  top: 0;
+}
+
+[sa-coord-r="0"] {
+  right: 0;
+}
+
+[sa-coord-b="0"] {
+  bottom: 0;
+}
+
+[sa-coord-l="0"] {
+  left: 0;
+}
+
+[sa-coord-v="0"] {
+  top: 0;
+  bottom: 0;
+}
+
+[sa-coord-h="0"] {
+  left: 0;
+  right: 0;
+}
+
+[sa-coord-tl="0"] {
+  top: 0;
+  left: 0;
+}
+
+[sa-coord-tr="0"] {
+  top: 0;
+  right: 0;
+}
+
+[sa-coord-bl="0"] {
+  bottom: 0;
+  left: 0;
+}
+
+[sa-coord-br="0"] {
+  bottom: 0;
+  right: 0;
+}

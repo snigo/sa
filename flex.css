@@ -1,0 +1,82 @@
+[sa-flex] {
+  display: flex;
+}
+
+[sa-flex-row] {
+  display: flex;
+  flex-direction: row;
+}
+
+[sa-flex-column] {
+  display: flex;
+  flex-direction: column;
+}
+
+[sa-flex-row-reverse] {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+[sa-flex-column-reverse] {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+[sa-flex-wrap],
+[sa-flex-wrap="true"] {
+  flex-wrap: wrap;
+}
+
+[sa-flex-wrap="false"] {
+  flex-wrap: nowrap;
+}
+
+[sa-flex-center] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+[sa-justify="start"] {
+  justify-content: flex-start;
+}
+
+[sa-justify="end"] {
+  justify-content: flex-end;
+}
+
+[sa-justify="center"] {
+  justify-content: center;
+}
+
+[sa-justify="space-between"] {
+  justify-content: space-between;
+}
+
+[sa-justify="space-evenly"] {
+  justify-content: space-evenly;
+}
+
+[sa-justify="space-around"] {
+  justify-content: space-around;
+}
+
+[sa-align="start"] {
+  align-items: flex-start;
+}
+
+[sa-align="end"] {
+  align-items: flex-end;
+}
+
+[sa-align="center"] {
+  align-items: center;
+}
+
+[sa-align="baseline"] {
+  align-items: baseline;
+}
+
+[sa-align="stretch"] {
+  align-items: stretch;
+}

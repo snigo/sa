@@ -1,0 +1,7 @@
+[sa-box="content"] {
+  box-sizing: content-box;
+}
+
+[sa-box="border"] {
+  box-sizing: border-box;
+}

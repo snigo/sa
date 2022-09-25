@@ -1,0 +1,21 @@
+[sa-rel],
+[sa-relative] {
+  position: relative;
+}
+
+[sa-abs],
+[sa-absolute] {
+  position: absolute;
+}
+
+[sa-fixed] {
+  position: fixed;
+}
+
+[sa-sticky] {
+  position: sticky;
+}
+
+[sa-static] {
+  position: static;
+}

@@ -1,0 +1,52 @@
+[sa-text-box] {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+[sa-text-box="1"] {
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+}
+
+[sa-text-box="2"] {
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+
+[sa-text-box="3"] {
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+}
+
+[sa-text-box="4"] {
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+}
+
+[sa-text-box="5"] {
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+}
+
+[sa-text-box="6"] {
+  -webkit-line-clamp: 6;
+  line-clamp: 6;
+}
+
+[sa-text-box="7"] {
+  -webkit-line-clamp: 7;
+  line-clamp: 7;
+}
+
+[sa-text-box="8"] {
+  -webkit-line-clamp: 8;
+  line-clamp: 8;
+}
+
+[sa-text-box="9"] {
+  -webkit-line-clamp: 9;
+  line-clamp: 9;
+}

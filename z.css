@@ -1,0 +1,47 @@
+[sa-z="auto"] {
+  z-index: auto;
+}
+
+[sa-z="0"] {
+  z-index: 0;
+}
+
+[sa-z="xxxs"] {
+  z-index: 1;
+}
+
+[sa-z="xxs"] {
+  z-index: 2;
+}
+
+[sa-z="xs"] {
+  z-index: 3;
+}
+
+[sa-z="s"] {
+  z-index: 4;
+}
+
+[sa-z="m"] {
+  z-index: 5;
+}
+
+[sa-z="l"] {
+  z-index: 6;
+}
+
+[sa-z="xl"] {
+  z-index: 7;
+}
+
+[sa-z="xxl"] {
+  z-index: 8;
+}
+
+[sa-z="xxxl"] {
+  z-index: 9;
+}
+
+[sa-z="max"] {
+  z-index: 99999;
+}
